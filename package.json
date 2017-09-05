@@ -1,0 +1,22 @@
+{
+  "name": "extiterable.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedobrengocce/extIterable.js.git"
+  },
+  "author": "Giuseppe Tufo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sedobrengocce/extIterable.js/issues"
+  },
+  "homepage": "https://github.com/sedobrengocce/extIterable.js#readme",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
+}
